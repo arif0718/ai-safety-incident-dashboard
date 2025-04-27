@@ -4,6 +4,19 @@
 
 The **AI Safety Incident Dashboard** is a web-based application designed to manage and track AI safety incidents. Developed as part of a frontend internship assignment at **HumanChain**, the app provides an interactive and user-friendly interface to display, filter, and log AI safety incidents with details like title, severity, description, and reported date.
 
+---
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Dashboard View
+
+![dashboard-screenshot](https://github.com/user-attachments/assets/ceadd658-da59-43b0-a7fa-a88b01367cc6)
+
+
+---
+
 The app allows users to:
 - View a list of safety incidents.
 - Filter incidents by severity (Low, Medium, High).
