@@ -34,4 +34,10 @@ To get started with the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ai-safety-incident-dashboard.git
+   git clone https://github.com/arif0718/ai-safety-incident-dashboard.git
+
+2. **Run the project**:
+
+   ```bash
+   cd .\sparklehood-assignment\
+   npm run dev
