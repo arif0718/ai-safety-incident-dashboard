@@ -53,4 +53,5 @@ To get started with the project locally, follow these steps:
 
    ```bash
    cd .\ai-safety-incident-dashboard\
+   npm install
    npm run dev
