@@ -39,5 +39,5 @@ To get started with the project locally, follow these steps:
 2. **Run the project**:
 
    ```bash
-   cd .\sparklehood-assignment\
+   cd .\ai-safety-incident-dashboard\
    npm run dev
